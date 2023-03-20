@@ -26,10 +26,3 @@ int main()
 		cout << "4. Exit" << endl;
 		cout << "pilihan (1/2/3/4): ";
 		cin >> pilihan;
-
-		switch (pilihan)
-		{
-		case 1:
-			cout << "masukkan panjang = ";
-			cin >> panjang;
-			cout <<
